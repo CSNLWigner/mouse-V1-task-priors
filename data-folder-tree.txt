@@ -1,0 +1,172 @@
+data
+├── DATASET1_CellTable.csv
+├── DATASET1_CellTable.h5
+├── DATASET1_CellTrialTable
+│   ├── B10
+│   │   ├── B10_110920.h5
+│   │   ├── B10_111020.h5
+│   │   ├── B10_111120_error_neurons.npy
+│   │   ├── B10_111120.h5
+│   │   ├── B10_111220.h5
+│   │   ├── B10_111320.h5
+│   │   └── B10_111420.h5
+│   ├── C02
+│   │   ├── C02_121020.h5
+│   │   ├── C02_121120.h5
+│   │   ├── C02_121220.h5
+│   │   ├── C02_121320.h5
+│   │   ├── C02_121420.h5
+│   │   └── C02_121520.h5
+│   ├── C05
+│   │   ├── C05_121020.h5
+│   │   ├── C05_121120.h5
+│   │   ├── C05_121220.h5
+│   │   ├── C05_121320.h5
+│   │   ├── C05_121420.h5
+│   │   └── C05_121520.h5
+│   ├── F05
+│   │   ├── F05_42021_.h5
+│   │   ├── F05_42121_.h5
+│   │   ├── F05_42221_.h5
+│   │   ├── F05_42321_.h5
+│   │   ├── F05_42421_.h5
+│   │   └── F05_42521_.h5
+│   ├── F06
+│   │   ├── F06_42121_.h5
+│   │   ├── F06_42221_.h5
+│   │   ├── F06_42321_.h5
+│   │   ├── F06_42421_.h5
+│   │   ├── F06_42521_.h5
+│   │   └── F06_42621_.h5
+│   ├── F07
+│   │   ├── F07_42021_.h5
+│   │   ├── F07_42121_.h5
+│   │   ├── F07_42221_.h5
+│   │   ├── F07_42321_.h5
+│   │   ├── F07_42421_.h5
+│   │   └── F07_42521_.h5
+│   ├── F09
+│   │   ├── F09_42021_.h5
+│   │   ├── F09_42121_.h5
+│   │   ├── F09_42221_.h5
+│   │   ├── F09_42321_.h5
+│   │   ├── F09_42421_.h5
+│   │   └── F09_42521_.h5
+│   ├── F10
+│   │   ├── F10_42121_.h5
+│   │   ├── F10_42221_.h5
+│   │   ├── F10_42321_.h5
+│   │   ├── F10_42421_.h5
+│   │   ├── F10_42521_.h5
+│   │   └── F10_42621_.h5
+│   ├── F17
+│   │   ├── F17_42021_.h5
+│   │   ├── F17_42121_.h5
+│   │   ├── F17_42221_.h5
+│   │   ├── F17_42321_.h5
+│   │   ├── F17_42421_.h5
+│   │   └── F17_42521_.h5
+│   └── F19
+│       ├── F19_42021_.h5
+│       ├── F19_42121_.h5
+│       ├── F19_42221_.h5
+│       ├── F19_42321_.h5
+│       ├── F19_42421_.h5
+│       └── F19_42521_.h5
+├── DATASET1_CellTrialTable.db
+├── DATASET1_ExperimentTable.csv
+├── DATASET1_numpy_arrays
+│   ├── go_matrices.npy
+│   ├── nogo_matrices.npy
+│   ├── potential_prior.npy
+│   ├── task_aggregated_matrices.npy
+│   ├── trained_task_means_last_second.npy
+│   ├── trained_task_means.npy
+│   ├── tuning_aggregated_matrices.npy
+│   └── tuning_matrices_across_days.npy
+├── DATASET1_TrialTable.csv
+├── df_frames_widths.csv
+├── _extra
+│   ├── AudioVisual_CellTable.csv
+│   ├── AudioVisual_CellTrialTable.csv
+│   ├── AudioVisual_Locomotion.csv
+│   ├── AudioVisual_Pupil.csv
+│   ├── AudioVisual_TrialTable.csv
+│   ├── CodeCorbo2024  [error opening dir]
+│   ├── DATASET2
+│   │   ├── DATASET2_CellTable.csv
+│   │   ├── DATASET2_CellTable.h5
+│   │   ├── DATASET2_CellTrialTable.csv
+│   │   └── DATASET2_TrialTable.csv
+│   ├── DatasetsCorbo2024.rar
+│   ├── Trained_CellTable.csv
+│   ├── Trained_CellTrialTable.csv
+│   └── Trained_TrialTable.csv
+├── go_D2_quintile_profiles.npz
+├── Naive_CellTable.csv
+├── Naive_CellTrialTable
+│   ├── 056
+│   │   ├── 056_20423_0.h5
+│   │   ├── 056_20523_0.h5
+│   │   ├── 056_20623_0.h5
+│   │   ├── 056_20723_0.h5
+│   │   ├── 056_20823_0.h5
+│   │   └── 056_20923_0.h5
+│   ├── 061
+│   │   ├── 061_20423_0.h5
+│   │   ├── 061_20523_0.h5
+│   │   ├── 061_20623_0.h5
+│   │   ├── 061_20723_0.h5
+│   │   ├── 061_20823_0.h5
+│   │   └── 061_20923_0.h5
+│   ├── 063
+│   │   ├── 063_20423_0.h5
+│   │   ├── 063_20523_0.h5
+│   │   ├── 063_20623_0.h5
+│   │   ├── 063_20723_0.h5
+│   │   ├── 063_20823_0.h5
+│   │   └── 063_20923_0.h5
+│   ├── 065
+│   │   ├── 065_20423_0.h5
+│   │   ├── 065_20523_0.h5
+│   │   ├── 065_20623_0.h5
+│   │   ├── 065_20723_0.h5
+│   │   ├── 065_20823_0.h5
+│   │   └── 065_20923_0.h5
+│   ├── 069
+│   │   ├── 069_20423_0.h5
+│   │   ├── 069_20523_0.h5
+│   │   ├── 069_20623_0.h5
+│   │   ├── 069_20723_0.h5
+│   │   ├── 069_20823_0.h5
+│   │   └── 069_20923_0.h5
+│   ├── 071
+│   │   ├── 071_20423_0.h5
+│   │   ├── 071_20523_0.h5
+│   │   ├── 071_20623_0.h5
+│   │   ├── 071_20723_0.h5
+│   │   ├── 071_20823_0.h5
+│   │   └── 071_20923_0.h5
+│   ├── 073
+│   │   ├── 073_20423_0.h5
+│   │   ├── 073_20523_0.h5
+│   │   ├── 073_20623_0.h5
+│   │   ├── 073_20723_0.h5
+│   │   ├── 073_20823_0.h5
+│   │   └── 073_20923_0.h5
+│   └── experiment_ids.txt
+├── Naive_CellTrialTable.csv
+├── Naive_CellTrialTable.db
+├── Naive_ExperimentTable.csv
+├── Naive_numpy_arrays
+│   ├── naive_task_means.npy
+│   ├── naive_tuning_means.npy
+│   ├── potential_likelihood.npy
+│   ├── task_aggregated_matrices.npy
+│   ├── tuning_aggregated_matrices.npy
+│   └── tuning_matrices_across_days.npy
+├── Naive_TrialTable.csv
+├── nogo_D2_quintile_profiles.npz
+└── profiles.npz
+
+25 directories, 145 files

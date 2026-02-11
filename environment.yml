@@ -1,0 +1,13 @@
+name: taskpriors
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsannotations
+  - h5py
+  - tqdm
+  
