@@ -2,7 +2,7 @@
 This repo contains our analysis of [calcium imagining data](https://zenodo.org/records/8109858) from the [Corbo, et al. (2025) Nat.Comm paper](https://doi.org/10.1038/s41467-024-55409-1), which itself built on the orientation-discrimination task and related neural phenomena from the [Corbo, et al. (2022) J.Neurosci](https://doi.org/10.1523/JNEUROSCI.2272-21.2022) paper.
 
 as appeared in
-## [TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex](https://ICLR2026)
+## [TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex](https://arxiv.org/abs/2602.11956v1)
 
 ### Abstract
 
@@ -43,14 +43,14 @@ download data from [https://zenodo.org/records/8109858](https://zenodo.org/recor
 - data/DATASET1_TrialTable.csv
 - data/DATASET1_ExperimentTable.csv
 - data/DATASET1_CellTrialTable.db
-- data/DATASET1_CellTrialTable/*/*.h5
-- data/DATASET1_CellTrialTable/*/*.csv
+- data/DATASET1_CellTrialTable/\*/\*.h5
+- data/DATASET1_CellTrialTable/\*/\*.csv
 - data/Naive_CellTable.csv
 - data/Naive_TrialTable.csv
 - data/Naive_ExperimentTable.csv
 - data/Naive_CellTrialTable.db
-- data/Naive_CellTrialTable/*/*.h5
-- data/Naive_CellTrialTable/*/*.csv
+- data/Naive_CellTrialTable/\*/\*.h5
+- data/Naive_CellTrialTable/\*/\*.csv
 
 ### data files under repo (read directly in generatefigurepanels.py)
 - data/Naive_numpy_arrays/potential_likelihood.npy
